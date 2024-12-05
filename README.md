@@ -3,7 +3,6 @@
 
 ![alt text](  https://blogs.icrc.org/law-and-policy/wp-content/uploads/sites/102/2022/03/Drone-image-1096x620.jpg  )
 
-
 ## Repos : 
 UAVDT :   https://paperswithcode.com/dataset/uavdt  
 
